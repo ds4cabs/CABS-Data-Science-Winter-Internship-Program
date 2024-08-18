@@ -20,15 +20,15 @@ Internship Dates: June 15 - August 25, 2024/2025/2026/2027/2028
 
 Notes:
 
-1. The CABS data science summer internship is fully remote, with no on-site requirements.
+1. The CABS data science winter internship is fully remote, with no on-site requirements.
    
-2. The CABS data science summer internship is an unpaid position, offering full flexibility for the program.
+2. The CABS data science winter internship is an unpaid position, offering full flexibility for the program.
 
 3. Please do not apply for this position if you already have another full-time internship.
 
 4. Our motivation is to enhance students' skillsets and provide pre-job exposure, including interview preparation and project experience in the pharmaceutical industry.
 
-5. This is a part-time summer internship, not a full-time commitment. You are welcome to participate in multiple internships if you wish. However, please note that obtaining a recommendation letter for this internship will require a high level of engagement with the project.
+5. This is a part-time winter internship, not a full-time commitment. You are welcome to participate in multiple internships if you wish. However, please note that obtaining a recommendation letter for this internship will require a high level of engagement with the project.
 6. The intern project encourages the intern to define the project, with the CABS mentor team providing support to ensure the program deeply and exclusively benefits the intern. We encourage the intern to take on a leadership role by identifying key questions, proposing the project, and thinking critically about potential solutions.
 7. **Compliance with DOL Guidelines:** The CABS internship program will strictly adhere to the U.S. Department of Labor's six-factor test for unpaid internships, ensuring that the internship is educational and beneficial to the Intern without providing immediate advantage to CABS. This compliance guarantees that the internship is a legitimate learning experience and not considered employment.
 8. **CPT and OPT Considerations**: While unpaid internships at non-profits generally do not require Curricular Practical Training (CPT) or Optional Practical Training (OPT), it is advisable to consult with the Designated School Official (DSO) at the student's university to ensure compliance with all F-1 visa regulations from your university, department, and local regulations.
